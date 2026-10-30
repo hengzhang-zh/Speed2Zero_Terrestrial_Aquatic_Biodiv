@@ -2,7 +2,9 @@
 
 **Repository**: Speed2Zero_Terrestrial_Aquatic_Biodiv
 
-**Code author and contact**: Heng Zhang — heng.zhang@eawag.ch
+**Authors**: Heng Zhang, Antoine Adde, Florian Altermatt
+
+**Email**: heng.zhang@eawag.ch
 
 **Date**: 10/30/2026
 
