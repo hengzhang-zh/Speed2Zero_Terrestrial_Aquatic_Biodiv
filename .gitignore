@@ -1,0 +1,38 @@
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+*~
+.vscode/
+.idea/
+
+# Python and R session artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.Rhistory
+.RData
+.Ruserdata
+
+# Local environments and credentials
+.env
+.env.*
+.venv/
+venv/
+
+# Generated results and catchment intermediates
+/result/
+/results/
+/data/catchmask_pix_v01/
+/data/env_var/catchmask_pix_v01/
+/data/env_var/catch_C_r_mat/
+
+# Manuscript stays in the source project, outside this release draft
+/publication/
+
+# Local provenance, not part of the public repository
+/docs/DRAFT_VALIDATION.md
+/docs/SOURCE_MANIFEST.csv
+
+# Internal review notes excluded from publication
+/docs/RELEASE_REVIEW.md
+/docs/WORKFLOW.md
