@@ -1,7 +1,5 @@
 # **Project: Spatial Associations of Aquatic and Terrestrial Biodiversity across Landscape Scales**
 
-**Repository**: Speed2Zero_Terrestrial_Aquatic_Biodiv
-
 **Authors**: Heng Zhang, Antoine Adde, Florian Altermatt
 
 **Email**: heng.zhang@eawag.ch
@@ -48,7 +46,7 @@ The biodiversity data used in this study come from **SDMapCH v1.3**, described b
 
 # **Reference**
 
-*Spatial associations of aquatic and terrestrial biodiversity across landscape scales.* Manuscript, 2026.
+Zhang, H., Adde, A., Altermatt, F. (2026). Spatial associations of aquatic and terrestrial biodiversity across landscape scales. *Ecography*, (Under Review).
 
 Adde, A., et al. (2025). SDMapCH: a Comprehensive database of >7,500 modelled species habitat suitability maps for Switzerland. *Scientific Data*, **12**, 1752. [https://doi.org/10.1038/s41597-025-06037-x](https://doi.org/10.1038/s41597-025-06037-x).
 
